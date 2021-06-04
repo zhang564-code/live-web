@@ -7,7 +7,7 @@ npm install  下载项目依赖
 
 ### Compiles and hot-reloads for development
 ```
-npm run server 启动命令
+npm run serve 启动命令
 ```
 ```
 node webSocket.js  开启聊天室 需要安装node
